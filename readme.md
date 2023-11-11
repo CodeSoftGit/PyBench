@@ -6,6 +6,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[![Open in Replit](https://repl.it/badge/github/open-sauced/open-sauced)](https://replit.com/@CodeSoft/PyBench?v=1)
 
 When the benchmark finishes, it will generate a file with the results, that looks something like this:
 
